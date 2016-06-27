@@ -7,5 +7,10 @@
             "email": "dujing.chart@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "minms\\alipay\\": ""
+        }
+    }
 }
