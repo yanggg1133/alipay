@@ -1,0 +1,11 @@
+{
+    "name": "minms/alipay",
+    "description": "支付宝/企业付款",
+    "authors": [
+        {
+            "name": "luckerdj",
+            "email": "dujing.chart@gmail.com"
+        }
+    ],
+    "require": {}
+}
